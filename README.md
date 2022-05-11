@@ -1,1 +1,2 @@
-# Parachute, A Customer Success Company
+# Parachute
+## A Customer Success Company
