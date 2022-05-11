@@ -24,7 +24,7 @@ const App: FC = () => (
     </Header>
     <Content style={{ padding: '0 50px', margin: '16px 0' }}>
       <div className="site-layout-content">
-      <h1>Paracute Customer Success</h1>
+      <h1>Parachute Customer Success</h1>
       <p>Helping companies build Customer Success programs that scale</p>
       </div>
     </Content>
